@@ -1,5 +1,6 @@
-.name
-Sound-Modulation.iml
-editor.xml
-misc.xml
-modules.xml
+.idea/
+*.o
+*.out
+*.exe
+.DS_Store
+build/
